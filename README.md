@@ -1,1 +1,3 @@
-# Msiiba.github.io
+Name: Mariam Siiba
+Introduction: Hello, I am a junior in the BS IT program at GMU. 
+Hobbies: Coding and building websites.
